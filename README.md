@@ -12,7 +12,7 @@ You can call me Celesy, or my Chinese name 陈劭宇 (ShaoYu Chen).
 - Location: Hefei, China
 - How to reach me: [rktrem@mail.ustc.edu.cn](rktrem@mail.ustc.edu.cn)
 - Mainly interested in **HPC**, **CA**.
-- Languages: Mandarin, English, Japanese
+- Languages: Chinese, English, Japanese
 
 # Other
 
